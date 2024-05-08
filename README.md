@@ -8,10 +8,9 @@ Core C Functions: Reimplementation of standard C functions such as memset, strcp
 Additional Utilities: Custom functions for string manipulation, memory operations, and linked list management.
 Coding Standards: Strict adherence to 42's coding standards, including memory leak prevention, code readability, and consistent style.
 Error Handling: Comprehensive error checking and handling to ensure robustness.
-Getting Started
-To clone this repository and get started with the Libft project:
 
-# Clone the repository:
+# Getting Started
+To clone this repository and get started with the Libft project:
 
     git clone https://github.com/Geesama02/Libft.git
     cd libft
